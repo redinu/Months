@@ -14,7 +14,7 @@ public class NameOfMonths {
 	
 	public static void printMonths(){
 		
-		if (noOfDays == 30 || noOfDays == 30 || noOfDays == 30){
+		if (noOfDays == 30 || noOfDays == 31 || noOfDays == 28){
 			
 			switch (noOfDays){
 		
